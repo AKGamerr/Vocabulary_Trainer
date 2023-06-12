@@ -14,4 +14,4 @@ PART TWO - Test yourself
 1. Display 10 sentences with blank words.
 2. Click 'submit' button to check if the user answered correctly.
 3. Highlight right andwers (words) with green color, gihglight wrong answers with red color.
-4. Display the percentage of the right answers.
+4. Display the score (percentage of the right answers).
