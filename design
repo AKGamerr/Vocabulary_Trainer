@@ -11,4 +11,6 @@ PART ONE -  Prepare
 9. 
 PART TWO - Test yourself
 
-1. 
+1. Display 10 sentences with blank words.
+2. Click 'submit' button to check if the user answered correctly.
+3. Highlight right answers with green color, gihglight wrong answers with red color.
