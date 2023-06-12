@@ -1,0 +1,14 @@
+PART ONE -  Prepare
+
+1. Take input from the user. The user writes a sentence.
+2.By pressing 'Add' button. Add a sentence to the list.
+3.Display the sentence in the list.
+4.Make each of the words of the sentence clickable.
+5.When user clicks on one word, it turns into blank text box [text input]. And the rest of the words become normal text.
+6.Save a sentence with blank space in the database of questions.
+7.Save the clicked word to the database on answers.
+
+
+PART TWO - Test yourself
+
+1. 
