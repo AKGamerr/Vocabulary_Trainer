@@ -7,7 +7,7 @@ PART ONE -  Prepare
 5.When user clicks on one word, it turns into blank text box [text input]. And the rest of the words become normal text.
 6.Save a sentence with blank space in the database of questions.
 7.Save the clicked word to the database on answers.
-
+8. Show all correct sentences from the topic.
 
 PART TWO - Test yourself
 
